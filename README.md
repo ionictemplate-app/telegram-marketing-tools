@@ -2,6 +2,8 @@
 
 # DOWNLOAD: https://bit.ly/3GLmU7C
 
+telegram: https://t.me/IonicSupport
+whatsapp:+1 315 629 9582
 
 # Get Telegram Marketing Tools here: 👈👈👈❤️❤️❤️  https://bit.ly/3GLmU7C
 
@@ -301,20 +303,6 @@
   </a>
 
 
-<h2><strong>Online Support</strong></h2>
-<table>
-<tr>
-   <td>
-      <a href="mailto:ionicstudio@hotmail.com">
-         <img src="https://i.ibb.co/D95ZGwY/email.png" alt="email" border="0">
-    </a>
-  </td>
-    <td>
-      <a href="https://t.me/captainC999" rel="nofollow">
-       <img src="https://i.ibb.co/F7m9KDN/tg.png" alt="tg" border="0">
-    </a>
-   </td>
-</tr>
-</table>
+ 
  
  
